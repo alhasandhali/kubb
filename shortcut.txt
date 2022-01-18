@@ -1,0 +1,26 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-tumblr"></i>
+<i class="fab fa-dribbble"></i>
+<i class="fab fa-pinterest-p"></i>
+
+<i class="fas fa-camera"></i>
+<i class="fas fa-video"></i>
+<i class="fas fa-paint-brush"></i>
+
+<i class="fas fa-map-marker-alt"></i>
+<i class="fas fa-tty"></i>
+<i class="fas fa-envelope"></i>
+
+<i class="far fa-heart"></i>
+<i class="fas fa-camera-retro"></i>
+
+
+
+Moonshine Street No: 14/05 
+Light City, Jupiter
+0247 541 65 87
+support@longwave.com
